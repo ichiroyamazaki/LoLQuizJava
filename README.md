@@ -1,0 +1,2 @@
+# LoLQuizJava
+Based on Java
